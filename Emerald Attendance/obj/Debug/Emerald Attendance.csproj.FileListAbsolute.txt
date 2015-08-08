@@ -1,0 +1,36 @@
+C:\Users\Harsh Mistry\AppData\Local\Temporary Projects\Emerald Attendance\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Harsh Mistry\AppData\Local\Temporary Projects\Emerald Attendance\obj\Debug\Emerald_Attendance.frmLogin.resources
+C:\Users\Harsh Mistry\AppData\Local\Temporary Projects\Emerald Attendance\obj\Debug\Emerald_Attendance.Properties.Resources.resources
+C:\Users\Harsh Mistry\AppData\Local\Temporary Projects\Emerald Attendance\obj\Debug\Emerald Attendance.csproj.GenerateResource.Cache
+C:\Users\Harsh Mistry\AppData\Local\Temporary Projects\Emerald Attendance\bin\Debug\Emerald Attendance.exe
+C:\Users\Harsh Mistry\AppData\Local\Temporary Projects\Emerald Attendance\bin\Debug\Emerald Attendance.pdb
+C:\Users\Harsh Mistry\AppData\Local\Temporary Projects\Emerald Attendance\obj\Debug\Emerald Attendance.exe
+C:\Users\Harsh Mistry\AppData\Local\Temporary Projects\Emerald Attendance\obj\Debug\Emerald Attendance.pdb
+E:\Emerald Attendance\Emerald Attendance\obj\Debug\Emerald Attendance.exe
+E:\Emerald Attendance\Emerald Attendance\obj\Debug\Emerald Attendance.pdb
+E:\Emerald Attendance\Emerald Attendance\bin\Debug\Emerald Attendance.exe
+E:\Emerald Attendance\Emerald Attendance\bin\Debug\Emerald Attendance.pdb
+E:\Emerald Attendance\Emerald Attendance\obj\Debug\ResolveAssemblyReference.cache
+E:\Emerald Attendance\Emerald Attendance\obj\Debug\Emerald_Attendance.Properties.Resources.resources
+E:\Emerald Attendance\Emerald Attendance\obj\Debug\Emerald Attendance.csproj.GenerateResource.Cache
+E:\Emerald Attendance\Emerald Attendance\obj\Debug\Emerald_Attendance.loginForm.resources
+E:\Emerald Attendance\Emerald Attendance\obj\Debug\Emerald_Attendance.SplashScreenForm.resources
+E:\Emerald Attendance\Emerald Attendance\obj\Debug\Emerald_Attendance.AdminForm.resources
+E:\Emerald Attendance\Emerald Attendance\bin\Debug\Interop.ADOX.dll
+E:\Emerald Attendance\Emerald Attendance\obj\Debug\Interop.ADOX.dll
+E:\Emerald Attendance\Emerald Attendance\obj\Debug\Emerald Attendance.csproj.ResolveComReference.cache
+E:\Emerald Attendance\Emerald Attendance\obj\Debug\Emerald_Attendance.ModifyForm.resources
+E:\Emerald Attendance\Emerald Attendance\obj\Debug\Emerald_Attendance.StatusForm.resources
+E:\Emerald Attendance\Emerald Attendance\bin\Debug\Spire.DataExport.ResourceMgr.dll
+E:\Emerald Attendance\Emerald Attendance\bin\Debug\Spire.License.dll
+E:\Emerald Attendance\Emerald Attendance\bin\Debug\Spire.DataExport.xml
+E:\Emerald Attendance\Emerald Attendance\obj\Debug\Emerald Attendance.exe.licenses
+E:\Emerald Attendance\Emerald Attendance\obj\Debug\Emerald_Attendance.AddForm.resources
+E:\Emerald Attendance\Emerald Attendance\obj\Debug\Emerald_Attendance.AboutBox1.resources
+E:\Emerald Attendance\Emerald Attendance\obj\Debug\Emerald_Attendance.ProfileForm.resources
+E:\Emerald Attendance\Emerald Attendance\obj\Debug\Emerald_Attendance.TeacherForm.resources
+E:\Emerald Attendance\Emerald Attendance\bin\Debug\Spire.DataExport.dll
+E:\ICS\Emerald Attendance\Emerald Attendance\obj\Debug\Interop.ADOX.dll
+E:\ICS\Emerald Attendance\Emerald Attendance\obj\Debug\Emerald Attendance.csproj.ResolveComReference.cache
+E:\ICS\Emerald Attendance\Emerald Attendance\obj\Debug\Emerald Attendance.exe
+E:\ICS\Emerald Attendance\Emerald Attendance\obj\Debug\Emerald Attendance.pdb
