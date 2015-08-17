@@ -12,6 +12,8 @@ The Goal of Emerald Attendance was to devlop a simple data management program th
 
 #People
 Harsh Mistry - Programmer/UI Design 
+
 Bradley Oosterbroek - Teacher Panel Programmer 
+
 Logan Sikora-Beder - Testing/Data Entry 
 
