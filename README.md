@@ -1,5 +1,5 @@
 # Emerald-Attendance
-A simple XML based attendance management program which makes use of a web server to store and manage data.
+A simple XML based attendance management program designed with c#.net which makes use of a web server to store and manage data.
 
 # Setup
 - Due to server up keep issues, there is no longer a demo server online, but the application can be configured to pull data of another server. 
@@ -17,8 +17,5 @@ Bradley Oosterbroek - Teacher Panel Programmer
 
 Logan Sikora-Beder - Testing/Data Entry 
 
-#Requirements 
-- Visual Studio 2010 or Newer
-- .Net 3.5
-- 30mb of Free Space 
+
 
