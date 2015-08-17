@@ -17,3 +17,8 @@ Bradley Oosterbroek - Teacher Panel Programmer
 
 Logan Sikora-Beder - Testing/Data Entry 
 
+#Requirements 
+- Visual Studio 2010 or Newer
+- .Net 3.5
+- 30mb of Free Space 
+
