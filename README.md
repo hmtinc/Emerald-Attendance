@@ -1,3 +1,4 @@
+![logo](https://github.com/hmtinc/Emerald-Attendance/raw/master/Emerald%20Attendance/Resources/logo2.png)
 # Emerald-Attendance
 A simple XML based attendance management program designed with c#.net which makes use of a web server to store and manage data.
 
