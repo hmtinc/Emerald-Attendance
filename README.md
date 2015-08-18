@@ -5,7 +5,25 @@ A simple XML based attendance management program designed with c#.net which make
 # Setup
 - Due to server up keep issues, there is no longer a demo server online, but the application can be configured to pull data of another server. 
 
-To point Emerald Attendance to your server, edit lines 84 and 373 - 376  in LoginForm.cs with your apportiate server information. In addition to changing the server info, ensure there is a XML file on your server named database.xml to ensure the application is able to store/manage data.
+To point Emerald Attendance to your server, edit the following lines lines in LoginForm.cs with your apportiate server information. 
+
+Lines 84 - 85
+```c#
+//Request index web page from server
+                HttpWebRequest req = (HttpWebRequest)WebRequest.Create("http://infcomp.x10.mx");
+                HttpWebResponse response = (HttpWebResponse)req.GetResponse();
+```
+
+Lines 373 - 376
+```c#
+            String sourceFilePathString = "C:\\temp\\database.xml";
+            String ftpString = "ftp://ftp.infcomp.x10.mx";
+            String ftpUsernameString = "attendance@infcomp.x10.mx";
+            String ftpPasswordString = "1234567";
+```
+
+In addition to changing the server info, ensure there is a XML file on your server named database.xml to ensure the application is able to store/manage data.
+
 
 
 #Goals
