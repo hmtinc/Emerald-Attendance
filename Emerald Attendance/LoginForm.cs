@@ -41,7 +41,7 @@ namespace Emerald_Attendance
         bool adminBoolean = false; //Admin boolean
         public static bool formOpenedBoolean = false;
 
-        //Declare Databse variables
+        //Declare Database variables
         public static DataSet databaseDataSet;
      
 
